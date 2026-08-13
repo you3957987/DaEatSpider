@@ -24,7 +24,6 @@
 | 기본 거미 | 게임 종료 시 거미 |
 | :---: | :---: |
 | <img width="204" src="https://github.com/user-attachments/assets/a00185b2-114f-4afa-8685-e671f006dee5" /> | <img width="204" src="https://github.com/user-attachments/assets/8b8ae5d7-1bc9-41bc-8ba0-18072c85a2d9" /> |
-| <sub>▲ 기본 거미</sub> | <sub>▲ 게임 종료 시 거미</sub> |
 
 </div>
 
