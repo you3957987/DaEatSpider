@@ -1,4 +1,4 @@
-노션 링크 : https://app.notion.com/p/DaEatSpider-3038942a9aa68184a2b6f442ec3f6140?source=copy_link
+[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/DaEatSpider-3038942a9aa68184a2b6f442ec3f6140?source=copy_link)
 
 ### 프로젝트 개요
 
