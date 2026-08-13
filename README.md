@@ -1,6 +1,18 @@
-[![Notion](https://img.shields.io/badge/노션_포트폴리오_바로가기-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/DaEatSpider-3038942a9aa68184a2b6f442ec3f6140?source=copy_link)
+<div align="center">
+  
+  # 🕷️ DaEatSpider
+  
+  [![Notion](https://img.shields.io/badge/노션_포트폴리오-%232F343B.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/DaEatSpider-3038942a9aa68184a2b6f442ec3f6140?source=copy_link)
+  
+  <br>
 
-### 프로젝트 개요
+  <img width="800" alt="DaEatSpider 썸네일" src="https://github.com/user-attachments/assets/0109fefa-88c6-4ece-b0ac-615634a24b30" />
+
+</div>
+
+<br>
+
+### 📌 프로젝트 개요
 
 * **성격 :** 상명대학교 알고리즘 전공 수업 프로젝트
 * **핵심 목표 :** 다익스트라(Dijkstra) 등 핵심 알고리즘을 최적화하여, 직관적이고 완성도 높은 모바일 캐주얼 게임 로직으로 구현
